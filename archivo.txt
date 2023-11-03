@@ -1,0 +1,2 @@
+Producto [articulo=jeans, precio=6000, descripcion=1era categoria, codigo=111, talla=6, marca=pillin, color=verde]
+Producto [articulo=polera, precio=1000, descripcion=polera verano, codigo=222, talla=10, marca=porky, color=azul]
